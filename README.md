@@ -15,7 +15,7 @@ This system is ideal for small to medium libraries that need digital tracking of
 
 1. Clone the repository:
  
-   git clone https://github.com/your-username/library-management-system.git
+git clone (https://github.com/MosesMolepo001/week-8-databasassignment.git)
 Open your MySQL interface (Workbench, CLI, phpMyAdmin, etc.)
 
 Import the SQL file:
